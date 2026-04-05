@@ -1,0 +1,20 @@
+NOTICE
+
+This repository includes material derived from the following Apache-2.0 licensed source:
+
+  Project: TG-Techie/NLSpec-Spec
+  License: Apache License, Version 2.0
+
+Derived and modified files in this repository:
+
+  - SPEC-SHR-001-nlspec-spec.md
+    Derived from `nlspec-spec.md` in `TG-Techie/NLSpec-Spec`.
+    This file has been modified and extended.
+
+  - SPEC-SHR-002-reverse-engineering-specs.md
+    Derived from `unreviewed appendix-d reverse engineering specs.md`
+    in `TG-Techie/NLSpec-Spec`.
+    This file has been modified and extended.
+
+This NOTICE file is provided for attribution and informational purposes only.
+It does not modify the terms of the Apache License, Version 2.0.
